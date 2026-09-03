@@ -10,6 +10,7 @@ title: SharedRoll 法律文件
 
 - [隱私權政策](privacy-policy)
 - [刪除帳號](delete-account)
+- [退款政策](refund-policy)
 - [使用者授權合約(EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) — 採用 Apple 標準版
 
 ## 聯絡
